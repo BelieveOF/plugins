@@ -1,0 +1,9 @@
+## 如何下载Chrome扩展
+
+https://chrome-extension-downloader.com/
+
+下载后，文件扩展名是.crx,可以把扩展名修改为zip，然后解压。
+
+在开发者模式下安装解压的扩展即可
+
+
